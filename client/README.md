@@ -20,3 +20,5 @@ You may also see any lint errors in the console.
  
  Now to check our server is correctly working or not we have to use command # 1) cd server,# 2) npm start
   Now to check our server is correctly working or not we have to use command # 1)cd client,# 2)npm start                                                                       
+ Unlock enterprise-grade features, functions, and UI components completely free for your startup or side project with the Maker Account from Stream: 
+- Stream API: https://getstream.io/maker-account/?u... 
